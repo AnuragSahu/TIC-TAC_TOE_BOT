@@ -26,3 +26,8 @@ Example
 $ python2.7 simulator.py 1
 ```
 ### My Team Number -> 65 , infinite entropy
+
+Some Screen shots of how the gameplay looks 
+![Alt text](/Screenshots/game_start.png?raw=true "Game Start")
+![Alt text](/Screenshots/game_about_to_end.png?raw=true "Game Start")
+![Alt text](/Screenshots/game_end.png?raw=true "Game Start")
