@@ -6,13 +6,6 @@
   - Plays with a random player on option 1.
   - Simulator provided
 
-
-You can also:
-  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
-  - Drag and drop markdown and HTML files into Dillinger
-  - Export documents as Markdown, HTML and PDF
-
-
 > The .pyc files of other bots are also avilable in the folder other bots folder
 > to play my bot with other bots copy any of the other bots to current directory
 > in simulator, import the bot.pyc file replace the Random_player() with bot.Team<botnumber>
