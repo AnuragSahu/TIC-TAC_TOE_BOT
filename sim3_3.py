@@ -4,7 +4,7 @@ import signal
 import time
 import copy
 
-import bhasin
+import bot_3_3
 
 class TimedOutExc(Exception):
 	pass
@@ -312,7 +312,7 @@ if __name__ == '__main__':
 	option = sys.argv[1]
 	if option == '1':
 		obj1 = Random_Player()
-		#obj2 = bhasin.Player77()
+		obj2 = bot_3_3.bot()
 
 	elif option == '2':
 		obj1 = Random_Player()
